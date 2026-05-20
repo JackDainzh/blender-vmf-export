@@ -1,3 +1,5 @@
+### TO DO: Make it a small All-in-one solution for working within Blender to make Source 1 maps (for now only Half-Life 2 and Garry's Mod), similar to WallWorm for 3ds Max but lighter.
+
 ## 20.05.26 Changes made:
 1. Updated to support Blender 4.5.10.
 2. Unified all scripts, excluding the material picker, since addon now handles UV maps automatically.
